@@ -1,2 +1,4 @@
-h2{outline-style: solid; outline-color: white;
+h2{background-color: white;
+  opacity: 0.3;
+}
 body{background-image: url(bc.jpg);background-size: cover;}
