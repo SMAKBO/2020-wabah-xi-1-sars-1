@@ -1,3 +1,8 @@
 body{background-image: url(bc.jpg);}
-h2{outline-style: solid; outline-color: white;}
-h2{background-color: hsl(0, 100%, 100%, 0.3);}
+.card-body1 {
+  background-color: 	rgb(255, 255, 255);
+  
+}
+.card-body2 {
+  background-color: 	rgb(255, 255, 255);
+}
